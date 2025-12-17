@@ -7,7 +7,7 @@ variable "resource_group_name" {
 variable "location" {
   description = "Região"
   type        = string
-  default     = "centralus"
+  default     = "East US"
 }
 
 variable "admin_password" {
